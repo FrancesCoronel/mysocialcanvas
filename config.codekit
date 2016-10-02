@@ -20,7 +20,7 @@
 		"outputAbbreviatedPath": "\/img\/bg-cta.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/case-1.png": {
 		"fileType": 32768,
@@ -31,7 +31,7 @@
 		"outputAbbreviatedPath": "\/img\/case-1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/case-2.png": {
 		"fileType": 32768,
@@ -42,7 +42,7 @@
 		"outputAbbreviatedPath": "\/img\/case-2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/case-3.png": {
 		"fileType": 32768,
@@ -53,7 +53,7 @@
 		"outputAbbreviatedPath": "\/img\/case-3.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/logo-text.png": {
 		"fileType": 32768,
@@ -64,7 +64,7 @@
 		"outputAbbreviatedPath": "\/img\/logo-text.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/logo.png": {
 		"fileType": 32768,
@@ -75,7 +75,7 @@
 		"outputAbbreviatedPath": "\/img\/logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/index.html": {
 		"fileType": 8192,
@@ -175,8 +175,8 @@
 		"enableSmartQuotes": 1,
 		"escapeLineBreaks": 0,
 		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/README.md",
 		"maskEmailAddresses": 1,
 		"outputAbbreviatedPath": "\/README.html",
