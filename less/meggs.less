@@ -579,3 +579,35 @@ img.logo-text {
     padding-top: 5%;
     padding-bottom: 5%;
 }
+
+@media (min-width: 768px) {
+    header .device-container {
+        max-width: none;
+        max-height: calc(0);
+        margin: 125px auto 0;
+        position: absolute;
+    }
+}
+
+#features .col-md-4 {
+    text-align: center;
+}
+
+@media (max-width: 995px) {
+    section.features .section-heading {
+        margin-bottom: 10%;
+    }
+    #features .col-md-4 {
+        padding-bottom: 20%;
+        &:last-child {
+            padding-bottom:  0;
+        }
+    }
+    .cta .btn {
+        width: 100%;
+    }
+}
+
+.img-responsive {
+    display: -webkit-inline-box;
+}
